@@ -39,7 +39,10 @@ if __name__ == '__main__':
     sites = {
         "qq": "qq.com",
         "weixin": "wechat.com",
+        "zhihu": "zhihu.com",
         "apple": "apple.com",
+        "google": "google.com",
+        "fb": "facebook.com",
     }
 
     for k, v in sites.items():
