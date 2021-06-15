@@ -43,6 +43,7 @@ if __name__ == '__main__':
         "google": "google.com",
         "fb": "facebook.com",
         "github": "github.com",
+        "社保": "zwdtuser.sh.gov.cn",
     }
 
     for k, v in sites.items():
