@@ -44,6 +44,7 @@ if __name__ == '__main__':
         "fb": "facebook.com",
         "github": "github.com",
         "社保": "zwdtuser.sh.gov.cn",
+        "网盘": "pan.baidu.com",
     }
 
     for k, v in sites.items():
