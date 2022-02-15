@@ -43,6 +43,7 @@ if __name__ == '__main__':
         "google": "google.com",
         "fb": "facebook.com",
         "github": "github.com",
+        "jd": "www.JD.com",
     }
 
     for k, v in sites.items():
