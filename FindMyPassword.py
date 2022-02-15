@@ -43,6 +43,8 @@ if __name__ == '__main__':
         "google": "google.com",
         "fb": "facebook.com",
         "github": "github.com",
+        "社保": "zwdtuser.sh.gov.cn",
+        "网盘": "pan.baidu.com",
         "jd": "www.JD.com",
     }
 
